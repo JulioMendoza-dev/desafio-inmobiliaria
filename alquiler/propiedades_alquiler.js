@@ -65,7 +65,6 @@ const propiedadesAlquiler = [
     smoke: false, //"fas fa-smoking-ban"
     pets: true 
 }] 
-
 const renderProp = ()=>{ 
     const resultHTML = propiedadesAlquiler.map(
         (obj)=>{
