@@ -63,7 +63,8 @@ const propiedadesAlquiler = [
     baños: 2,
     costo: 50000000, // "fas fa-dollar-sign"
     smoke: false, //"fas fa-smoking-ban"
-    pets: true }] //"fa-solid fa-ban"
+    pets: true 
+}] 
 
 const renderProp = ()=>{ 
     const resultHTML = propiedadesAlquiler.map(

@@ -1,4 +1,3 @@
-//objetos propiedades
 const propiedadesVenta = [
     {
     nombre: 'propiedad 1', // "card-title"
